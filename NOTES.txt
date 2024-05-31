@@ -1,0 +1,22 @@
+what are links in html?
+    - links are used to connect a text / image / button with a section of a website.
+
+types of links:
+    - relative links 
+    (wo pages jo ap apny server hi se connect krty hai apny website k sath / wo ap k hi pages)
+
+    (wo pages / content / text etc jo mojod hai same location pe)
+
+    (wo pages jinka apke website k sath koi connection ho / relation ho )
+
+
+TRY:
+    <a> -> anchor -> link 
+        chezo ko apas me link krty hai 
+    attribute:
+        href="" -> hyper text reference
+        href="location/fileName.extension"
+
+    <a href="">content to link</a>
+
+    - absolute links 
